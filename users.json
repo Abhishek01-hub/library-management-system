@@ -1,0 +1,56 @@
+{
+    "users":[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "membershipType": "Standard",
+    "joinedDate": "2023-01-15",
+    "active": true,
+    "subscriptionType": "Monthly",
+    "subscriptionDate": "2023-01-15",
+    "issuedBook": "The Great Gatsby",
+    "issueDate": "2023-09-01",
+    "returnDate": "2023-09-15"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "membershipType": "Premium",
+    "joinedDate": "2022-11-20",
+    "active": true,
+    "subscriptionType": "Annual",
+    "subscriptionDate": "2022-11-20",
+    "issuedBook": "Sapiens: A Brief History of Humankind",
+    "issueDate": "2023-08-10",
+    "returnDate": "2023-08-24"
+  },
+  {
+    "id": 3,
+    "name": "Carol Lee",
+    "email": "carol.lee@example.com",
+    "membershipType": "Standard",
+    "joinedDate": "2023-03-05",
+    "active": false,
+    "subscriptionType": "Monthly",
+    "subscriptionDate": "2023-03-05",
+    "issuedBook": "To Kill a Mockingbird",
+    "issueDate": "2023-06-01",
+    "returnDate": "2023-06-15"
+  },
+  {
+    "id": 4,
+    "name": "David Kim",
+    "email": "david.kim@example.com",
+    "membershipType": "Premium",
+    "joinedDate": "2022-09-12",
+    "active": true,
+    "subscriptionType": "Annual",
+    "subscriptionDate": "2022-09-12",
+    "issuedBook": "Atomic Habits",
+    "issueDate": "2023-07-20",
+    "returnDate": "2023-08-03"
+  }
+]
+}

@@ -43,3 +43,11 @@ GET: Get all issued books with their fine amount
 >> If a user misses the subscription, then user is excepted to pay 100rs
 >> If a user misses both renewal and subscription, then the collected amount should be 200rs
 
+# commands 
+npm init
+npm i express
+npm i nodemon --save-dev
+
+npm run dev
+
+To restore node modules and package-lock.json --> npm i/npm install
