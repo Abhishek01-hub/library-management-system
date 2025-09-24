@@ -48,6 +48,6 @@ npm init
 npm i express
 npm i nodemon --save-dev
 
-npm run dev
+npm run dev -- to start the appln
 
 To restore node modules and package-lock.json --> npm i/npm install
